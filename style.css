@@ -1,0 +1,12 @@
+body{
+    background-image: url(images/img.png);
+    background-repeat: repeat;
+    font-family: Calibri;
+    font-size: 20px;
+}
+.middle{
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+    background-color: #fff;
+}
